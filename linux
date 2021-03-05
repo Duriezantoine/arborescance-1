@@ -1,0 +1,13 @@
+antoine@antoine-HP-Pavilion-Gaming-Laptop-15-dk0xxx:~$ ls
+appel  apricot  Bureau  Documents  git                                     Images           live     Musique           orange   planets.zip  Public  quests  snap             Vidéos          wild-git
+apple  banaa    coding  fruits     google-chrome-stable_current_amd64.deb  installationgit  Modèles  my-super-website  planets  projet       quest   racine  Téléchargements  vieuxtacos.txt
+antoine@antoine-HP-Pavilion-Gaming-Laptop-15-dk0xxx:~$ cd images
+bash: cd: images: Aucun fichier ou dossier de ce type
+antoine@antoine-HP-Pavilion-Gaming-Laptop-15-dk0xxx:~$ cd Images
+antoine@antoine-HP-Pavilion-Gaming-Laptop-15-dk0xxx:~/Images$ lwd
+
+La commande « lwd » n'a pas été trouvée, mais il y en a 14 similaires.
+
+antoine@antoine-HP-Pavilion-Gaming-Laptop-15-dk0xxx:~/Images$ pwd
+/home/antoine/Images
+antoine@antoine-HP-Pavilion-Gaming-Laptop-15-dk0xxx:~/Images$ 
